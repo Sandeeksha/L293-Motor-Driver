@@ -61,4 +61,4 @@ PCB Diagram: ![Screenshot 2025-04-28 193453](https://github.com/user-attachments
 
 ## 🛠️ License
 
-This project is open-source and free to use under the **MIT License**.
+This project is open-source and free to use.
